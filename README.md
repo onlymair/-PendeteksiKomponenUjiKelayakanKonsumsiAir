@@ -71,4 +71,4 @@ Ahmad Irfan Rizqi Muliawan, Arya Ghazi Wiratama, Fakhri Ahmad Yasir, Huga Alva W
 - World Health Organization (WHO)
 - Peraturan Menteri Kesehatan RI No. 2 Tahun 2023
 - Sustainable Development Goals (SDGs) Ke-6: Air Bersih dan Sanitasi Layak
-# PendeteksiKomponenUjiKelayakanKonsumsiAir
+
